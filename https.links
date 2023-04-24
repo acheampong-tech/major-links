@@ -1,2 +1,51 @@
 Jenkins Maven Configuration
 toolsqa.com/jenkins/jenkins-maven/
+
+
+############# GIT STUFF ################
+$ git clone http://github.com/opscode/chef-repo.git
+
+$ git config --global color.ui "auto"
+
+$ git config --global user.email "you@youremailaddress.com" 
+
+$ git config --global user.name "Your Name"
+
+$ man git-config
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
